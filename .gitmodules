@@ -1,3 +1,3 @@
 [submodule "path_to_submodule"] 
   path = path_to_submodule 
-  url = git://github.com/bryban/Resume
+  url = https://github.com/bryban/Resume
