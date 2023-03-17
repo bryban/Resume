@@ -137,8 +137,7 @@ p {
 .contact .list-items-circle li a:hover {
     background-color: var(--white);
     border: 2px solid var(--white);
-    transform: rotateZ(360deg);
-    transition: 2s;
+
 }
 
 .flex-list hr {
